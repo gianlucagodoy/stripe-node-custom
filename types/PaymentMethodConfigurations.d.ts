@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * PaymentMethodConfigurations control which payment methods are displayed to your customers when you don't explicitly specify payment method types. You can have multiple configurations with different sets of payment methods for different scenarios.

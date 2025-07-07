@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * Reviews can be used to supplement automated fraud detection with human expertise.

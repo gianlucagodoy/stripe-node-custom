@@ -1,7 +1,7 @@
 /// <reference types="node" />
 
 import {IncomingMessage} from 'http';
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * Encapsulates the logic for issuing a request to the Stripe API. This is

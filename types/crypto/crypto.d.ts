@@ -1,4 +1,4 @@
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * Interface encapsulating the various crypto computations used by the library,

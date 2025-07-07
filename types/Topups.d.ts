@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * To top up your Stripe balance, you create a top-up object. You can retrieve

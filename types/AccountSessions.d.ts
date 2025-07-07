@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * An AccountSession allows a Connect platform to grant access to a connected account in Connect embedded components.

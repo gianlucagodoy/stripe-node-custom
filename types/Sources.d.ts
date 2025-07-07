@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * `Source` objects allow you to accept a variety of payment methods. They

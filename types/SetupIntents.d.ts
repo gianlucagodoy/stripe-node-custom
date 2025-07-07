@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * A SetupIntent guides you through the process of setting up and saving a customer's payment credentials for future payments.

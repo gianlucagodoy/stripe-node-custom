@@ -1,6 +1,6 @@
 {
-  "name": "stripe",
-  "version": "18.4.0",
+  "name": "stripe-custom",
+  "version": "18.6.0",
   "description": "Stripe API wrapper",
   "keywords": [
     "stripe",
@@ -69,8 +69,11 @@
   },
   "license": "MIT",
   "scripts": {
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build:esm": "tsc -p tsconfig.esm.json",
     "test": "tsc -p tsconfig.cjs.json && mocha",
-    "prepack": "just install && just build"
+    "prepack": "just install && just build",
+    "build": "npm run build:cjs && npm run build:esm"
   },
   "exports": {
     "types": "./types/index.d.ts",

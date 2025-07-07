@@ -283,7 +283,7 @@
 ///<reference path='./WebhookEndpoints.d.ts' />
 // Imports: The end of the section generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   // Added to in other modules, referenced above.
   export namespace Stripe {}
 

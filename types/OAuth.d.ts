@@ -1,4 +1,4 @@
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     interface OAuthToken {
       /**

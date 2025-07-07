@@ -1,6 +1,6 @@
 /// <reference types="node" />
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     export class Webhooks {
       /**

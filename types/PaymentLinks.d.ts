@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * A payment link is a shareable URL that will take your customers to a hosted payment page. A payment link can be shared and used multiple times.

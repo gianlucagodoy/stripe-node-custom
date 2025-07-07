@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * A Customer Session allows you to grant Stripe's frontend SDKs (like Stripe.js) client-side access

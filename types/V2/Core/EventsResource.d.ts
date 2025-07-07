@@ -2,7 +2,7 @@
 
 /// <reference path='../EventTypes.d.ts' />
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     namespace V2 {
       namespace Core {

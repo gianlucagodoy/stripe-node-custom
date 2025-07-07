@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * [Stripe Connect](https://stripe.com/docs/connect) platforms can reverse transfers made to a

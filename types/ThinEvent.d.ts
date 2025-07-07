@@ -1,6 +1,6 @@
 // This is a manually maintained file
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     namespace Event {
       /**

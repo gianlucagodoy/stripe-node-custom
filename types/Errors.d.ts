@@ -1,4 +1,4 @@
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     // rawErrorTypeEnum: The beginning of the section generated from our OpenAPI spec
     export type RawErrorType =

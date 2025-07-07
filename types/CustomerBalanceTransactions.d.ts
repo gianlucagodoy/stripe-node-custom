@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * Each customer has a [Balance](https://stripe.com/docs/api/customers/object#customer_object-balance) value,

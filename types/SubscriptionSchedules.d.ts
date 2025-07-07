@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     /**
      * A subscription schedule allows you to create and manage the lifecycle of a subscription by predefining expected changes.

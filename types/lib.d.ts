@@ -3,7 +3,7 @@
 
 import {Agent} from 'http';
 
-declare module 'stripe' {
+declare module 'stripe-custom' {
   namespace Stripe {
     type StripeResourceClass = typeof StripeResource;
 
