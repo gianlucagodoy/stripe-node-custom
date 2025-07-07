@@ -67,6 +67,8 @@ declare module 'stripe' {
        */
       object: 'invoice';
 
+      paid_out_of_band: boolean | null;
+
       /**
        * The country of the business associated with this invoice, most often the business creating the invoice.
        */
